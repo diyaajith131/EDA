@@ -28,7 +28,7 @@ All plots are saved in the **outputs/** folder:
 
 ---
 
-## ❓ Interview Questions & Answers
+ Frequently Asked Questions & Answers
 
 ### 1. What is the purpose of EDA?  
 EDA helps to understand the dataset’s structure, detect patterns, identify anomalies, and decide the right preprocessing & modeling techniques.
